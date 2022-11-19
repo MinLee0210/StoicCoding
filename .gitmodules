@@ -1,0 +1,3 @@
+[submodule "porter-stemmer-nodejs"]
+	path = porter-stemmer-nodejs
+	url = https://github.com/jedp/porter-stemmer.git
